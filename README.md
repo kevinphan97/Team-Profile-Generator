@@ -35,7 +35,7 @@
   />
 
   ## Video
-  
+  To view the video, please click and download this link: https://github.com/kevinphan97/Team-Profile-Generator/blob/main/media/Team-Profile-Demo.mp4
   ## Questions
   You can find my repositories on GitHub: [https://github.com/kevinphan97]
   If you have any questions feel free to email me at: kevin.b.phan97@gmail.com
