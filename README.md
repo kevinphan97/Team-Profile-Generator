@@ -8,6 +8,7 @@
   -[License](#license)<br/>
   -[Contribution](#contribution)<br/>
   -[Sample](#sample)<br/>
+  -[Video](#video)<br/>
   -[Questions](#questions)<br/>
 
   ## Description
@@ -27,12 +28,14 @@
 
   ## Sample
   <img
-  src="img/Website-Screenshot.png"
+  src="media/Website-Screenshot.png"
   raw=true
   alt="Website Screenshot"
   style= "30px;"
   />
 
+  ## Video
+  
   ## Questions
   You can find my repositories on GitHub: [https://github.com/kevinphan97]
   If you have any questions feel free to email me at: kevin.b.phan97@gmail.com
